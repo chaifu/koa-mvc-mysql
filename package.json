@@ -1,0 +1,17 @@
+{
+  "name": "Mip Node Mvc Framework",
+  "version": "1.0.0",
+  "description": "A Node Mvc Framework",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "chaifu",
+  "license": "ISC",
+  "dependencies": {
+    "co-mysql": "^1.0.0",
+    "koa-bodyparser": "^2.3.0",
+    "koa-route": "^2.4.2",
+    "mysql": "^2.12.0"
+  }
+}
