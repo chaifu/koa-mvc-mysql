@@ -4,7 +4,7 @@
   "description": "A Node Mvc Framework",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node ./index.js"
   },
   "author": "chaifu",
   "license": "ISC",

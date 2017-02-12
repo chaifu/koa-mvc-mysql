@@ -27,6 +27,7 @@ app.use(function *(next){
     if(config.app.isModuleName){
         //待开发
     }else{
+        if(U=='/favicon.ico'){return false;}
         if(U=='/'){
             U='index/index';
             ACT = 'index';
