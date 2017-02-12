@@ -8,6 +8,8 @@
 npm install
 
 # serve at localhost:3000
+node index.js 
+OR
 npm run dev
 
 ```
